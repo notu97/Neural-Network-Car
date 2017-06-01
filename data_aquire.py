@@ -1,3 +1,5 @@
+# This code is used for Data Acquision Purpose
+#---Author--Srivatsa Sinha
 import pygame
 import sys
 import serial
