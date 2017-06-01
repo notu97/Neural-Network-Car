@@ -1,4 +1,5 @@
-
+# This code trains the Neural Network and gives an output score.
+#----Authot--Srivatsa Sinha--
 # coding: utf-8
 
 # In[2]:
