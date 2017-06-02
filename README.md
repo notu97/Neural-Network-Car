@@ -7,4 +7,4 @@ Dataset Link- https://www.dropbox.com/s/odsw7ooqcvpbkud/Compress_Data.tar.gz?dl=
 Video Link- https://www.youtube.com/watch?v=lk7ZtMxv0Ak
 
 
-Author- Shiladitya Biswas and Srivatas Sinha
+Author- Shiladitya Biswas and Srivatsa Sinha
