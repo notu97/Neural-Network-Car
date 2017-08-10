@@ -1,9 +1,4 @@
 # This code performs the auto-navigation function and guides the car on its own
-#----Author-- Srivatsa Sinha---
-# coding: utf-8
-
-# In[1]:
-
 #All the modules
 import cv2
 import pygame
