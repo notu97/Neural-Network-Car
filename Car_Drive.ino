@@ -34,7 +34,7 @@ void loop() {int i;
     {if(Serial.read()=='l')
         {Left();}
       else if(Serial.read()=='f')
-        {goForward();}
+        {goForward();} 
        else if(Serial.read()=='r')
         {Right();}
     }     
